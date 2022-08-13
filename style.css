@@ -1,0 +1,161 @@
+h2 {
+    
+    text-align: center;color: black;font-size: 50px;
+}
+h3 {
+    text-align: center;color: black;font-size: 25px ;line-height: 100px; 
+}
+
+h4 {
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: 500;
+}
+ .Login {
+    margin-left: 706px;
+    padding: 0 30px;
+    border-radius: 5px;
+    height: 30px;
+ }
+ .register {
+    margin-left: 708px;
+    padding: 0 20px;
+    border-radius: 5px;
+    height: 30px;
+    
+ }
+
+.div0 {
+    display: flex;
+    margin-left:700px ;
+}
+.div1 {
+    display: flex;
+  
+}
+
+.div2 { display: flex;
+
+}
+.div3 {
+    display: flex;
+}
+
+    .div4 {
+        display: flex;
+    }
+.div6 {
+    display: flex;
+    margin-left: 667px;
+    margin-top: 60px;
+}
+.div001 {
+    display: flex;
+}
+
+.fname {
+    margin-top: 65px;
+    margin-left:600px;
+    height: 40px;
+    text-size-adjust: 40px;
+}
+
+.bold {     margin-top: 65px;
+    height: 20px;
+    margin-left: 15px;
+}
+
+.eml {
+    margin-top: 5px;
+    margin-left:630px;
+    height: 40px;
+    text-size-adjust: 40px;
+}
+    .email {
+        margin-top: 3px;
+        height: 20px;
+        margin-left: 15px;
+    }
+
+.pssw { 
+    margin-top: 5px;
+    margin-left:610px;
+    height: 40px;
+    text-size-adjust: 40px;
+
+}
+.psswrd { margin-top: 3px;
+    height: 20px;
+    margin-left: 12px;
+
+}
+.cps { margin-top: 5px;
+    margin-left:552px;
+    height: 40px;
+    text-size-adjust: 40px;
+}
+
+.cpss {
+    margin-top: 3px;
+    height: 20px;
+    margin-left: 12px;
+}
+.reg {
+    border-radius: 5px;
+    margin-left: 724px;
+}
+.psc {
+    text-align: center;
+    font-size: x-large;
+    font-weight: 600;
+    margin-top: 60px;
+}
+.pty {
+    text-align: center;
+    font-size: large;
+}
+.div8 { display: flex;
+    margin-left: 625px;
+    font-size: xx-large;
+}
+
+.divine { 
+    margin-top: 100px;
+    margin-left: -221px;
+    font-size: large;
+    font-weight: 800;
+}
+
+.log {  
+    font-size: x-large;
+    margin-left: 610px;
+}
+.log1 {
+    margin-left: 10px;
+    height: 20px;
+    margin-top: 25px;
+}
+
+.div002 {
+    display: flex;
+}
+
+.pwd {
+    font-size: x-large;
+    margin-left: 575px;
+}
+
+
+.pssd { margin-left: 10px;
+    height: 20px;
+    margin-top: 25px
+
+}
+.reg{
+    border-radius: 5px;
+    margin-left: 724px;
+    width: 75px;
+    height: 30px;
+    margin-top: 20px;
+    
+}
